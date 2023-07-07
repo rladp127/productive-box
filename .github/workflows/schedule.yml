@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: https://gist.github.com/rladp127/fe2f512a8ed5de296524cac0eaa0bf47
-          TIMEZONE: Asia/Seoul, Pohang
+          GIST_ID: gist.github.com/rladp127/fe2f512a8ed5de296524cac0eaa0bf47
+          TIMEZONE: Asia/Pohang
